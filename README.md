@@ -104,6 +104,7 @@ Temple Code:
 
 ```
 ## Output:
+![output](./output.png)
 Chicken Centre output
 ![](./chicken.png)
 
