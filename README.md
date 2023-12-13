@@ -106,13 +106,18 @@ Temple Code:
 ## Output:
 Chicken Centre output
 ![](./chicken.png)
+
 Cricket Output 
 ![](./cricket.png)
+
 KumarPower Output
 ![](./kumarpowers.png)
+
 SumiMobile Output
 ![](./sumimobile.png)
+
 Temple Output 
 ![](./temple.png)
+
 ## Result:
 Finally this programm was successfully executed.
